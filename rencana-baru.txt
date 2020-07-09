@@ -1,4 +1,6 @@
 RENCANA BARU
 - MEMAHAMI BAHASA KOTLIN
 - JAVA
+- FUNDAMENTAL
 - Google io
+- Aplikasi Android
